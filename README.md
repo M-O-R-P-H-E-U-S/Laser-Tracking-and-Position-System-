@@ -1,4 +1,4 @@
-# Bullet
+# Laser Tracking and Position System 
 Bullet Target
 
 import cv2
